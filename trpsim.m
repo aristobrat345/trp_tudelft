@@ -3,7 +3,7 @@
 g=9.81; %m/s^2
 R_a=8.314; %J/mol/K 
 alpha=0.861;
-%Rocket parameters
+%Rocket parameters 
 d_t=0.0112; %m +-0.00005 change?
 d_e=0.022; %m +-0.00005 change?
 d_out=0.036;
